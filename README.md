@@ -6,4 +6,4 @@
   <br>
 Рубежный контроль:<br>
 <a href='https://github.com/NazarovMM/mmo_course_2023/blob/main/RK1/MMO_RK1.ipynb'>Рубежный контроль №1<a><br>
-
+<a href='https://github.com/NazarovMM/mmo_course_2023/blob/main/RK2/RK2_report.pdf'>Рубежный контроль №2<a><br>
